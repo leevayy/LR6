@@ -16,6 +16,7 @@
 Рисунок 1 - Снимок экрана с консолью
 
 ![Visual Studio Code](./images/vscode.png)
+
 Рисунок 2 - Снимок экрана со сторонней программой
 
 ![git log --prety="format:%h %ai %an %s"](./images/gitlog.png)
